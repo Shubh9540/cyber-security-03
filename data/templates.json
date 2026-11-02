@@ -1,0 +1,1826 @@
+{
+  "common": {
+    "Footer": {
+      "logo": "/main logo/cybershield-logo.webp",
+      "logoAlt": "CyberShield Logo",
+      "logoUrl": "/",
+      "brandTitle": "CyberShield",
+      "copyrightText": "© 2026 CyberShield. All Rights Reserved. Powered By Lestow",
+      "description": "Protecting businesses with advanced cybersecurity solutions, helping you stay secure, resilient, and ahead of evolving threats.",
+      "backgroundImage": "/footer/cyber-footer-command-center.webp",
+      "backgroundImageAlt": "Cybersecurity analyst monitoring global digital threats from a command center",
+      "quickLinksTitle": "Quick Links",
+      "servicesTitle": "Our Services",
+      "contactTitle": "Contact Us",
+      "followUsTitle": "Follow Us",
+      "socialLinks": [
+        {
+          "id": "social-linkedin",
+          "icon": "FaLinkedinIn",
+          "label": "LinkedIn",
+          "url": "https://linkedin.com"
+        },
+        {
+          "id": "social-x",
+          "icon": "FaXTwitter",
+          "label": "X",
+          "url": "https://x.com"
+        },
+        {
+          "id": "social-facebook",
+          "icon": "FaFacebookF",
+          "label": "Facebook",
+          "url": "https://facebook.com"
+        },
+        {
+          "id": "social-instagram",
+          "icon": "FaInstagram",
+          "label": "Instagram",
+          "url": "https://instagram.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "quick-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "quick-about",
+          "label": "About Us",
+          "url": "/about"
+        },
+        {
+          "id": "quick-services",
+          "label": "Services",
+          "url": "/services"
+        },
+        {
+          "id": "quick-projects",
+          "label": "Projects",
+          "url": "/projects"
+        },
+        {
+          "id": "quick-blog",
+          "label": "Blog",
+          "url": "/blog"
+        }
+      ],
+      "servicesLinks": [
+        {
+          "id": "footer-threat-detection",
+          "label": "Threat Detection",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-network-security",
+          "label": "Network Security",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-data-encryption",
+          "label": "Data Encryption",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-identity-access",
+          "label": "Identity & Access Management",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-security-monitoring",
+          "label": "Security Monitoring",
+          "url": "/services/service-details"
+        },
+        {
+          "id": "footer-backup-recovery",
+          "label": "Backup & Recovery",
+          "url": "/services/service-details"
+        }
+      ],
+      "contactInfo": {
+        "email": "info@xyz.com",
+        "phone": "+1 000000000",
+        "address": "123 Main St, New York, NY, USA"
+      }
+    },
+    "notFound": {
+      "code": "404",
+      "title": "Oops! Page Not Found",
+      "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+      "buttonText": "Back to Home",
+      "buttonUrl": "/"
+    },
+    "aboutBreadcrumb": {
+      "title": "About Us",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-about-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-about-current",
+          "label": "About Us"
+        }
+      ]
+    },
+    "servicesBreadcrumb": {
+      "title": "Our Services",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-services-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-services-current",
+          "label": "Services"
+        }
+      ]
+    },
+    "serviceDetailBreadcrumb": {
+      "title": "Service Details",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-service-detail-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-service-detail-current",
+          "label": "Service Details"
+        }
+      ]
+    },
+    "projectsBreadcrumb": {
+      "title": "Our Projects",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-projects-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-projects-current",
+          "label": "Projects"
+        }
+      ]
+    },
+    "projectDetailBreadcrumb": {
+      "title": "Project Detail",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-project-detail-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-project-detail-current",
+          "label": "Project Detail"
+        }
+      ]
+    },
+    "contactBreadcrumb": {
+      "title": "Contact Us",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-contact-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-contact-current",
+          "label": "Contact Us"
+        }
+      ]
+    },
+    "quoteBreadcrumb": {
+      "title": "Get a Quote",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-quote-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-quote-current",
+          "label": "Get A Quote"
+        }
+      ]
+    },
+    "blogsBreadcrumb": {
+      "title": "Blog",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-blogs-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-blogs-current",
+          "label": "Blog"
+        }
+      ]
+    },
+    "blogDetailBreadcrumb": {
+      "title": "Blog Details",
+      "bgImage": "/banner/cyber-hero-1.webp",
+      "paths": [
+        {
+          "id": "breadcrumb-blog-detail-home",
+          "label": "Home",
+          "url": "/"
+        },
+        {
+          "id": "breadcrumb-blog-detail-current",
+          "label": "Blog Details"
+        }
+      ]
+    }
+  },
+  "categories": {
+    "CyberSecurity": {
+      "sections": {
+        "Header": {
+          "variants": {
+            "CyberSecurityHeader1": {
+              "logo": "/main logo/cybershield-logo.webp",
+              "logoAlt": "CyberShield Cyber Security",
+              "navLinks": [
+                {
+                  "id": "nav-home",
+                  "label": "Home",
+                  "url": "/"
+                },
+                {
+                  "id": "nav-about",
+                  "label": "About Us",
+                  "url": "/about"
+                },
+                {
+                  "id": "nav-services",
+                  "label": "Services",
+                  "url": "/services"
+                },
+                {
+                  "id": "nav-projects",
+                  "label": "Projects",
+                  "url": "/projects"
+                },
+                {
+                  "id": "nav-blog",
+                  "label": "Blog",
+                  "url": "/blog"
+                },
+                {
+                  "id": "nav-contact",
+                  "label": "Contact Us",
+                  "url": "/contact"
+                }
+              ],
+              "contactButton": {
+                "text": "Get a Quote",
+                "url": "/get-a-quote"
+              },
+              "openMenuLabel": "Open navigation menu",
+              "closeMenuLabel": "Close navigation menu"
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "CyberSecurityHero1": {
+              "slideNavigationLabel": "Hero slides",
+              "goToSlideLabel": "Go to slide",
+              "autoplayDelay": 5000,
+              "slides": [
+                {
+                  "id": "hero-threat-protection",
+                  "eyebrow": "WELCOME TO CYBERSHIELD",
+                  "titleStart": "Secure your world,",
+                  "highlightedTitle": "effortlessly",
+                  "titleEnd": "today!",
+                  "description": "Protect your digital world with advanced cybersecurity solutions designed to safeguard your data, systems, and peace of mind.",
+                  "image": "/banner/cyber-hero-1.webp",
+                  "imageAlt": "Cybersecurity analyst monitoring a protected global network"
+                },
+                {
+                  "id": "hero-network-defense",
+                  "eyebrow": "ALWAYS-ON NETWORK DEFENSE",
+                  "titleStart": "Stop every threat,",
+                  "highlightedTitle": "proactively",
+                  "titleEnd": "and confidently.",
+                  "description": "Stay ahead of evolving attacks with continuous monitoring, intelligent threat detection, and rapid incident response.",
+                  "image": "/banner/cyber-hero-2.webp",
+                  "imageAlt": "Security analyst monitoring a protected enterprise network"
+                },
+                {
+                  "id": "hero-cloud-security",
+                  "eyebrow": "SECURE CLOUD OPERATIONS",
+                  "titleStart": "Protect your cloud,",
+                  "highlightedTitle": "securely",
+                  "titleEnd": "at every scale.",
+                  "description": "Strengthen cloud workloads, encrypted data, and critical infrastructure with resilient protection built for modern business.",
+                  "image": "/banner/cyber-hero-3.webp",
+                  "imageAlt": "Cloud security engineer protecting data center infrastructure"
+                }
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "CyberSecurityAboutUs1": {
+              "subtitle": "ABOUT US",
+              "title1": "Your Trusted Partner in",
+              "highlightedTitle": "Cyber Security",
+              "title2": "",
+              "description": "At CyberShield, we are committed to protecting businesses in the digital world with advanced cybersecurity solutions. Our expert team monitors, detects, prevents, and responds to cyber threats 24/7, ensuring your data, systems, and operations remain secure and always one step ahead of evolving risks.",
+              "imageMain": "/about/cyber-about-main.webp",
+              "imageMainAlt": "Cybersecurity analyst monitoring global threats in a security operations center",
+              "imageTop": "/about/cyber-about-team.webp",
+              "imageTopAlt": "CyberShield security professional working on a laptop",
+              "imageBottom": "/about/cyber-about-monitoring.webp",
+              "imageBottomAlt": "Laptop displaying active cybersecurity protection",
+              "features": [
+                {
+                  "id": "about-proactive-protection",
+                  "icon": "FaShieldAlt",
+                  "title": "Proactive Protection",
+                  "description": "Identify and stop threats before they impact."
+                },
+                {
+                  "id": "about-expert-team",
+                  "icon": "FaUsers",
+                  "title": "Expert Team",
+                  "description": "Certified professionals with real-world experience."
+                },
+                {
+                  "id": "about-monitoring",
+                  "icon": "FaCog",
+                  "title": "24/7 Monitoring",
+                  "description": "Round-the-clock security for your business."
+                },
+                {
+                  "id": "about-custom-solutions",
+                  "icon": "FaChartBar",
+                  "title": "Customized Solutions",
+                  "description": "Tailored strategies for your unique needs."
+                }
+              ]
+            }
+          }
+        },
+        "AboutPageIntro": {
+          "variants": {
+            "CyberSecurityAboutPageIntro1": {
+              "subtitle": "About Us",
+              "title1": "The Platform of Choice",
+              "highlightedTitle": "66K+",
+              "title2": "Global Traders",
+              "imageMain": "/about/about1.webp",
+              "imageMainAlt": "Experienced CyberShield market professional",
+              "imageSecondary": "/about/about2.webp",
+              "imageSecondaryAlt": "CyberShield trader analysing financial markets",
+              "experienceValue": "10+",
+              "experienceLabel": "Years of Experience",
+              "paragraphs": [
+                {
+                  "id": "about-page-paragraph-1",
+                  "text": "At CyberShield, we are committed to providing a secure, transparent and technology-driven trading environment, empowering traders to connect, learn and grow with confidence."
+                },
+                {
+                  "id": "about-page-paragraph-2",
+                  "text": "At CyberShield, we are committed to providing a secure, transparent and technology-driven trading environment, empowering traders to connect, learn and grow with confidence."
+                },
+                {
+                  "id": "about-page-paragraph-3",
+                  "text": "At CyberShield, we are committed to providing a secure, transparent and technology-driven trading environment, empowering traders to connect, learn and grow with confidence."
+                },
+                {
+                  "id": "about-page-paragraph-4",
+                  "text": "At CyberShield, we are committed to providing a secure, transparent and technology-driven trading environment, empowering traders to connect, learn and grow with confidence."
+                },
+                {
+                  "id": "about-page-paragraph-5",
+                  "text": "At CyberShield, we are committed to providing a secure, transparent and technology-driven trading environment, empowering traders to connect, learn and grow with confidence."
+                }
+              ]
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "CyberSecurityServices1": {
+              "subtitle": "OUR SERVICES",
+              "title1": "Advanced Cybersecurity",
+              "title2": "Services",
+              "title3": "for a Safer Tomorrow",
+              "description": "We deliver end-to-end cybersecurity services to protect your business from evolving digital threats. From proactive threat detection to data protection and incident response, our solutions help you stay secure, resilient, and ahead of cyber risks.",
+              "linkText": "Learn More",
+              "services": [
+                {
+                  "id": "service-network-security",
+                  "title": "Network Security",
+                  "description": "Deploying firewalls and intrusion detection systems to safeguard your networks.",
+                  "image": "/service/cyber-network-security.webp",
+                  "imageAlt": "Protected enterprise server representing network security",
+                  "icon": "FaNetworkWired",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-data-encryption",
+                  "title": "Data Encryption",
+                  "description": "Encrypting sensitive data at rest and in transit using advanced encryption.",
+                  "image": "/service/cyber-data-encryption.webp",
+                  "imageAlt": "Digital padlock representing encrypted business data",
+                  "icon": "FaLock",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-identity-access",
+                  "title": "Identity & Access Management",
+                  "description": "Managing user identities and access with MFA and detailed role-based control.",
+                  "image": "/service/cyber-identity-access.webp",
+                  "imageAlt": "Biometric fingerprint identity verification",
+                  "icon": "FaFingerprint",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-security-monitoring",
+                  "title": "Security Monitoring",
+                  "description": "24/7 monitoring with advanced SIEM systems for real-time detection.",
+                  "image": "/service/cyber-monitoring.webp",
+                  "imageAlt": "Security analyst monitoring global cyber threats",
+                  "icon": "FaEye",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-backup-recovery",
+                  "title": "Backup & Recovery",
+                  "description": "Protecting critical data with secure backups and rapid recovery plans.",
+                  "image": "/service/cyber-backup-recovery.webp",
+                  "imageAlt": "Secure cloud backup and recovery infrastructure",
+                  "icon": "FaCloudUploadAlt",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "service-security-configuration",
+                  "title": "Security Configuration",
+                  "description": "Hardening systems and applying secure configurations across all infrastructure.",
+                  "image": "/service/cyber-configuration.webp",
+                  "imageAlt": "Security configuration controls on a laptop",
+                  "icon": "FaCogs",
+                  "url": "/services/service-details"
+                }
+              ]
+            }
+          }
+        },
+        "ServiceDetails": {
+          "variants": {
+            "CyberSecurityServiceDetail1": {
+              "id": "service-details",
+              "activeServiceId": "detail-network-security",
+              "serviceLinks": [
+                {
+                  "id": "detail-network-security",
+                  "icon": "FaNetworkWired",
+                  "label": "Network Security",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "detail-data-encryption",
+                  "icon": "FaLock",
+                  "label": "Data Encryption",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "detail-identity-access",
+                  "icon": "FaFingerprint",
+                  "label": "Identity & Access Management",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "detail-security-monitoring",
+                  "icon": "FaEye",
+                  "label": "Security Monitoring",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "detail-backup-recovery",
+                  "icon": "FaCloudUploadAlt",
+                  "label": "Backup & Recovery",
+                  "url": "/services/service-details"
+                },
+                {
+                  "id": "detail-security-configuration",
+                  "icon": "FaCogs",
+                  "label": "Security Configuration",
+                  "url": "/services/service-details"
+                }
+              ],
+              "eyebrow": "NETWORK SECURITY",
+              "title1": "Protect your organization from",
+              "title2": "cyber threats",
+              "description": "In today's connected world, a secure network is essential for uninterrupted business operations. Our network security solutions are designed to detect, prevent, and respond to threats, ensuring your data, systems, and resources remain protected from unauthorized access, malware, and evolving cyber risks.",
+              "imageMain": "/service/cyber-network-security.webp",
+              "imageMainAlt": "Glowing shield and padlock protecting enterprise network servers",
+              "overviewLabel": "OVERVIEW",
+              "overviewText": [
+                {
+                  "id": "service-detail-overview-1",
+                  "text": "Our network security services help businesses safeguard their network infrastructure from cyber threats, ensuring secure data flow, reliable connectivity, and uninterrupted operations. We implement advanced security measures to protect against unauthorized access, malware, and other evolving threats, keeping your business always one step ahead."
+                }
+              ],
+              "approachLabel": "OUR APPROACH",
+              "approachText": [
+                {
+                  "id": "service-detail-approach-1",
+                  "text": "We use a proactive and multi-layered approach to secure your network. From advanced firewall configurations to intrusion detection and continuous monitoring, our experts ensure that your network remains resilient, secure, and compliant with industry standards."
+                }
+              ],
+              "featuresLabel": "KEY FEATURES",
+              "features": [
+                {
+                  "id": "service-detail-feature-threat",
+                  "icon": "FaShieldAlt",
+                  "title": "Advanced Threat Protection",
+                  "description": "Detect and block potential threats before they impact your network."
+                },
+                {
+                  "id": "service-detail-feature-firewall",
+                  "icon": "FaFireAlt",
+                  "title": "Firewall Configuration",
+                  "description": "Implement robust firewall solutions to prevent unauthorized access."
+                },
+                {
+                  "id": "service-detail-feature-monitoring",
+                  "icon": "FaTv",
+                  "title": "Network Monitoring",
+                  "description": "24/7 monitoring to detect and respond to suspicious activities."
+                },
+                {
+                  "id": "service-detail-feature-connectivity",
+                  "icon": "FaGlobe",
+                  "title": "Secure Connectivity",
+                  "description": "Ensure safe and encrypted communication across all your network devices."
+                },
+                {
+                  "id": "service-detail-feature-compliance",
+                  "icon": "FaClipboardCheck",
+                  "title": "Compliance & Risk Management",
+                  "description": "Stay compliant with industry security standards and minimize security risks."
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "CyberSecurityTestimonials1": {
+              "subtitle": "TESTIMONIALS",
+              "title1": "What Our",
+              "title2": "Clients Say",
+              "description": "Trusted by businesses worldwide, we deliver cybersecurity solutions that make a real difference. Here's what our clients have to say about their experience with us.",
+              "videoImage": "/about/cyber-about-main.webp",
+              "videoImageAlt": "Cybersecurity operations center protecting a global business network",
+              "previousLabel": "Previous testimonials",
+              "nextLabel": "Next testimonials",
+              "slideLabel": "Show testimonial",
+              "testimonials": [
+                {
+                  "id": "testimonial-rahul-verma",
+                  "name": "Rahul Verma",
+                  "location": "IT Manager, TechNova Solutions",
+                  "quote": "This cybersecurity service has been a game-changer for our business. The security plan keeps our data protected, and we no longer worry about online threats. The setup was simple, and the team provided excellent support.",
+                  "rating": 5,
+                  "avatar": "/team/1.webp"
+                },
+                {
+                  "id": "testimonial-priya-nair",
+                  "name": "Priya Nair",
+                  "location": "COO, Meridian Health",
+                  "quote": "CyberShield strengthened our security posture without disrupting daily operations. Their monitoring team is responsive, practical, and always ready with clear guidance when we need it.",
+                  "rating": 5,
+                  "avatar": "/team/2.webp"
+                },
+                {
+                  "id": "testimonial-amit-khanna",
+                  "name": "Amit Khanna",
+                  "location": "CTO, Vertex Commerce",
+                  "quote": "Their zero-trust implementation gave us better visibility and control across every user and device. The project was delivered smoothly and the results were measurable from day one.",
+                  "rating": 5,
+                  "avatar": "/team/3.webp"
+                },
+                {
+                  "id": "testimonial-neha-kapoor-security",
+                  "name": "Neha Kapoor",
+                  "location": "Director, Elevate Finance",
+                  "quote": "From the first risk assessment to final deployment, the team explained everything clearly. We now have stronger protection and far greater confidence in our compliance readiness.",
+                  "rating": 5,
+                  "avatar": "/team/4.webp"
+                }
+              ]
+            }
+          }
+        },
+        "Blogs": {
+          "variants": {
+            "CyberSecurityBlogs1": {
+              "subtitle": "OUR LATEST BLOG",
+              "title1": "Our Latest",
+              "title2": "Insight Blog",
+              "description": "Stay informed with expert insights, industry trends, and practical tips on cybersecurity to help you protect what matters most.",
+              "readMoreText": "Read More",
+              "previousLabel": "View previous blog articles",
+              "nextLabel": "View next blog articles",
+              "pageLabel": "Go to blog page",
+              "itemsPerPage": 9,
+              "button": {
+                "text": "View All Blog",
+                "url": "/blog"
+              },
+              "blogs": [
+                {
+                  "id": "blog-linux-threat-2026",
+                  "image": "/about/cyber-about-main.webp",
+                  "imageAlt": "Cybersecurity analyst monitoring Linux threats across a global network",
+                  "date": "15 Oct 2026",
+                  "category": "THREAT INTELLIGENCE",
+                  "title": "The Linux Threat You Need to Know in 2026",
+                  "description": "Explore the latest Linux security threats, how they work, and the best practices to keep your systems safe and secure.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-closing-security-gaps",
+                  "image": "/about/cyber-about-team.webp",
+                  "imageAlt": "Cybersecurity team reviewing enterprise security gaps",
+                  "date": "12 Oct 2026",
+                  "category": "SECURITY STRATEGY",
+                  "title": "Closing Security Gaps with Innovation",
+                  "description": "Discover how modern security solutions and innovative technologies can help businesses close critical security gaps.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-data-extortion",
+                  "image": "/about/cyber-about-monitoring.webp",
+                  "imageAlt": "Security specialist investigating protected business data",
+                  "date": "08 Oct 2026",
+                  "category": "DATA PROTECTION",
+                  "title": "BianLian Focuses on Data Extortion",
+                  "description": "Learn how data extortion attacks work and what steps you can take to protect your business from emerging threats.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-ransomware-readiness",
+                  "image": "/project/ransomware-response.webp",
+                  "imageAlt": "Security operations team preparing a ransomware response",
+                  "date": "05 Oct 2026",
+                  "category": "INCIDENT RESPONSE",
+                  "title": "Building a Ransomware-Ready Business",
+                  "description": "Prepare your organization to detect, contain, and recover from ransomware with a clear and tested response strategy.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-secure-cloud-migration",
+                  "image": "/project/secure-cloud-migration.webp",
+                  "imageAlt": "Enterprise cloud infrastructure protected by a digital shield",
+                  "date": "02 Oct 2026",
+                  "category": "CLOUD SECURITY",
+                  "title": "A Practical Guide to Secure Cloud Migration",
+                  "description": "Understand the controls, planning, and monitoring needed to move critical workloads into the cloud securely.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "blog-mobile-banking-security",
+                  "image": "/project/mobile-banking-security.webp",
+                  "imageAlt": "Secure mobile banking protected by biometric verification",
+                  "date": "28 Sep 2026",
+                  "category": "FINTECH SECURITY",
+                  "title": "Stopping Mobile Banking Fraud Before It Starts",
+                  "description": "Explore practical security controls that reduce fraud while keeping digital banking fast and convenient for customers.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "b7",
+                  "image": "/portfolio/app/1.webp",
+                  "date": "12 Jun 2026",
+                  "category": "TECH INSIGHTS",
+                  "title": "Winterizing Your Home Tech System",
+                  "description": "Learn about the most common tech issues homeowners face and simple tips to fix them before they become major problems.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "b8",
+                  "image": "/portfolio/app/2.webp",
+                  "date": "12 Jun 2026",
+                  "category": "TECH INSIGHTS",
+                  "title": "Benefits of Upgrading to a Tankless System",
+                  "description": "Learn about the most common tech issues homeowners face and simple tips to fix them before they become major problems.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "b9",
+                  "image": "/portfolio/app/3.webp",
+                  "date": "12 Jun 2026",
+                  "category": "TECH INSIGHTS",
+                  "title": "What to Do During a Tech Emergency",
+                  "description": "Learn about the most common tech issues homeowners face and simple tips to fix them before they become major problems.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "b10",
+                  "image": "/portfolio/ui/1.webp",
+                  "date": "12 Jun 2026",
+                  "category": "TECH INSIGHTS",
+                  "title": "Understanding Your Home Water Pressure",
+                  "description": "Learn about the most common tech issues homeowners face and simple tips to fix them before they become major problems.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "b11",
+                  "image": "/portfolio/ui/2.webp",
+                  "date": "12 Jun 2026",
+                  "category": "TECH INSIGHTS",
+                  "title": "Simple Tips to Keep Your Systems Clean",
+                  "description": "Learn about the most common tech issues homeowners face and simple tips to fix them before they become major problems.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "b12",
+                  "image": "/portfolio/ui/3.webp",
+                  "date": "12 Jun 2026",
+                  "category": "TECH INSIGHTS",
+                  "title": "How to Maintain Your System for Long Life",
+                  "description": "Learn about the most common tech issues homeowners face and simple tips to fix them before they become major problems.",
+                  "url": "/blog/blog-details"
+                }
+              ],
+              "pageBlogs": [
+                {
+                  "id": "page-blog-linux-threat",
+                  "image": "/about/cyber-about-main.webp",
+                  "imageAlt": "Cybersecurity analyst monitoring Linux threats",
+                  "date": "15 Oct 2026",
+                  "category": "THREAT INTELLIGENCE",
+                  "title": "The Linux Threat You Need to Know in 2026",
+                  "description": "Explore the latest Linux security threats and the practices that keep critical systems protected.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-security-gaps",
+                  "image": "/about/cyber-about-team.webp",
+                  "imageAlt": "Security team reviewing enterprise risks",
+                  "date": "12 Oct 2026",
+                  "category": "SECURITY STRATEGY",
+                  "title": "Closing Security Gaps with Innovation",
+                  "description": "Discover how modern security technology helps businesses close critical protection gaps.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-data-extortion",
+                  "image": "/about/cyber-about-monitoring.webp",
+                  "imageAlt": "Specialist investigating a data extortion incident",
+                  "date": "08 Oct 2026",
+                  "category": "DATA PROTECTION",
+                  "title": "BianLian Focuses on Data Extortion",
+                  "description": "Learn how extortion attacks work and how organizations can protect sensitive business data.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-ransomware-rise",
+                  "image": "/project/ransomware-response.webp",
+                  "imageAlt": "Security operations team responding to ransomware",
+                  "date": "05 Oct 2026",
+                  "category": "CYBER THREATS",
+                  "title": "Ransomware Attacks Are on the Rise",
+                  "description": "Understand current ransomware tactics and strengthen your organization's recovery readiness.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-secure-network",
+                  "image": "/service/cyber-network-security.webp",
+                  "imageAlt": "Protected enterprise servers and digital shield",
+                  "date": "28 Sep 2026",
+                  "category": "NETWORK SECURITY",
+                  "title": "Best Practices for Securing Your Network",
+                  "description": "Use layered controls and continuous monitoring to protect network infrastructure.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-cloud-environment",
+                  "image": "/service/cyber-backup-recovery.webp",
+                  "imageAlt": "Secure cloud infrastructure and backups",
+                  "date": "20 Sep 2026",
+                  "category": "CLOUD SECURITY",
+                  "title": "How to Keep Your Cloud Environment Secure",
+                  "description": "Explore practical cloud controls for protecting workloads, applications, and critical data.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-security-training",
+                  "image": "/project/industrial-security.webp",
+                  "imageAlt": "Security awareness training in an industrial environment",
+                  "date": "14 Sep 2026",
+                  "category": "SECURITY AWARENESS",
+                  "title": "Why Employee Training Matters in Cybersecurity",
+                  "description": "Learn how security awareness reduces human risk and strengthens business resilience.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-incident-response",
+                  "image": "/service/cyber-configuration.webp",
+                  "imageAlt": "Cybersecurity incident response controls",
+                  "date": "07 Sep 2026",
+                  "category": "INCIDENT RESPONSE",
+                  "title": "Building an Effective Incident Response Plan",
+                  "description": "Create a practical response plan that minimizes damage during a cyber incident.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-compliance",
+                  "image": "/service/cyber-identity-access.webp",
+                  "imageAlt": "Identity security supporting regulatory compliance",
+                  "date": "01 Sep 2026",
+                  "category": "COMPLIANCE",
+                  "title": "Navigating Cybersecurity Compliance",
+                  "description": "Keep your organization audit-ready with clear controls and continuous risk reviews.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-mobile-fraud",
+                  "image": "/project/mobile-banking-security.webp",
+                  "imageAlt": "Mobile banking protected by biometric security",
+                  "date": "26 Aug 2026",
+                  "category": "FINTECH SECURITY",
+                  "title": "Stopping Mobile Banking Fraud Early",
+                  "description": "Apply modern fraud detection controls without slowing down customer experiences.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-encryption",
+                  "image": "/service/cyber-data-encryption.webp",
+                  "imageAlt": "Business data protected with encryption",
+                  "date": "18 Aug 2026",
+                  "category": "DATA ENCRYPTION",
+                  "title": "Encryption Strategies for Modern Businesses",
+                  "description": "Protect sensitive information at rest and in transit with a clear encryption strategy.",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "page-blog-cloud-migration",
+                  "image": "/project/secure-cloud-migration.webp",
+                  "imageAlt": "Secure enterprise cloud migration",
+                  "date": "10 Aug 2026",
+                  "category": "CLOUD MIGRATION",
+                  "title": "A Security-First Cloud Migration Checklist",
+                  "description": "Plan a resilient cloud migration with identity, monitoring, and recovery controls.",
+                  "url": "/blog/blog-details"
+                }
+              ]
+            }
+          }
+        },
+        "BlogDetails": {
+          "variants": {
+            "CyberSecurityBlogDetail1": {
+              "id": "blog-details",
+              "category": "Cyber Security",
+              "title1": "Breaking Down the Latest",
+              "title2": "Cyber Threats",
+              "authorLabel": "By Admin",
+              "date": "26 October, 2026",
+              "image": "/project/ransomware-response.webp",
+              "imageAlt": "Cybersecurity analyst investigating emerging digital threats",
+              "introText": "Cloud Security Posture Management is a category of security solutions designed to enhance the security of cloud environments by identifying and mitigating risks associated with cloud misconfigurations, compliance violations, and potential threats.",
+              "articleSections": [
+                {
+                  "id": "blog-detail-ransomware",
+                  "title": "Targeted Ransomware Campaigns",
+                  "text": "Ransomware attacks have become more targeted, focusing on critical infrastructure and large corporations. Attackers now use double extortion, demanding payment not only for decrypting files but also for not leaking sensitive data."
+                },
+                {
+                  "id": "blog-detail-saas",
+                  "title": "The Growing Popularity of SaaS Platforms",
+                  "text": "SaaS platforms are increasingly targeted by cybercriminals because they hold valuable business information and connect many users. Strong identity controls, secure configurations, and continuous monitoring are essential for reducing exposure."
+                }
+              ],
+              "quote": "Cybersecurity is the new frontier of technology. To protect our digital lives, we must prioritize security as much as innovation.",
+              "quoteAuthor": "Satya Nadella",
+              "quoteRole": "CEO of Microsoft",
+              "inlineImages": [
+                {
+                  "id": "blog-detail-inline-encryption",
+                  "image": "/service/cyber-data-encryption.webp",
+                  "imageAlt": "Encrypted data protected by a digital lock"
+                },
+                {
+                  "id": "blog-detail-inline-monitoring",
+                  "image": "/about/cyber-about-monitoring.webp",
+                  "imageAlt": "Security specialist monitoring enterprise systems"
+                }
+              ],
+              "closingText": "Cybercriminals are leveraging artificial intelligence to develop smarter malware and conduct social engineering attacks. Organizations need layered defenses, trained teams, tested response plans, and continuous visibility to stay resilient as threats evolve.",
+              "recentPostsTitle": "Recent Posts",
+              "recentPosts": [
+                {
+                  "id": "recent-cyber-trends",
+                  "image": "/project/ransomware-response.webp",
+                  "imageAlt": "Cybersecurity trends and ransomware monitoring",
+                  "title": "Top Cybersecurity Trends to Watch",
+                  "date": "21 Oct 2026",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "recent-ai-security",
+                  "image": "/about/cyber-about-team.webp",
+                  "imageAlt": "Team reviewing AI security risks",
+                  "title": "AI in Cybersecurity: A Double-Edged Sword",
+                  "date": "18 Oct 2026",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "recent-passwords",
+                  "image": "/service/cyber-identity-access.webp",
+                  "imageAlt": "Secure identity and password protection",
+                  "title": "The Ultimate Guide to Strong Passwords",
+                  "date": "12 Oct 2026",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "recent-ransomware",
+                  "image": "/service/cyber-network-security.webp",
+                  "imageAlt": "Network protected from ransomware",
+                  "title": "How Businesses Can Prevent Ransomware",
+                  "date": "05 Oct 2026",
+                  "url": "/blog/blog-details"
+                }
+              ],
+              "categoriesTitle": "Categories",
+              "categories": [
+                {
+                  "id": "category-cloud-management",
+                  "label": "Cloud Security Management",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "category-workload",
+                  "label": "Cloud Workload Protection",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "category-access",
+                  "label": "Cloud Access Security",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "category-network",
+                  "label": "Network Security",
+                  "url": "/blog/blog-details"
+                },
+                {
+                  "id": "category-endpoint",
+                  "label": "Endpoint Detection and Response",
+                  "url": "/blog/blog-details"
+                }
+              ]
+            }
+          }
+        },
+        "whyChooseUs": {
+          "variants": {
+            "CyberSecurityWhyChooseUs1": {
+              "subtitle": "WHY CHOOSE US",
+              "title1": "Complete Cyber Defense Against",
+              "title2": "Modern Attacks",
+              "description": "Stay protected with a fully integrated defense strategy built for today's complex cyber landscape. From ransomware to phishing and zero-day exploits, we provide comprehensive protection across networks, endpoints, and cloud environments.",
+              "features": [
+                {
+                  "id": "why-advanced-threat-detection",
+                  "number": "01",
+                  "icon": "FaShieldAlt",
+                  "title": "Advanced Threat Detection",
+                  "description": "Leverage real-time monitoring and AI-driven analytics to detect and stop threats before they impact your business.",
+                  "image": "/service/cyber-network-security.webp",
+                  "imageAlt": "Digital shield protecting a secure server network"
+                },
+                {
+                  "id": "why-zero-trust-architecture",
+                  "number": "02",
+                  "icon": "FaUserLock",
+                  "title": "Zero Trust Architecture",
+                  "description": "Enforce strict access control and continuous verification at every level to prevent unauthorized access.",
+                  "image": "/service/cyber-identity-access.webp",
+                  "imageAlt": "Biometric identity verification and secure access control"
+                },
+                {
+                  "id": "why-end-to-end-protection",
+                  "number": "03",
+                  "icon": "FaCloud",
+                  "title": "End-to-End Protection",
+                  "description": "Comprehensive security across networks, endpoints, cloud, and applications.",
+                  "image": "/service/cyber-backup-recovery.webp",
+                  "imageAlt": "Secure cloud infrastructure protected across environments"
+                },
+                {
+                  "id": "why-proactive-security-strategy",
+                  "number": "04",
+                  "icon": "FaChartLine",
+                  "title": "Proactive Security Strategy",
+                  "description": "Stay ahead with continuous monitoring, vulnerability management, and expert-led defense strategies.",
+                  "image": "/service/cyber-monitoring.webp",
+                  "imageAlt": "Security analytics dashboard showing active threat monitoring"
+                }
+              ],
+              "button": {
+                "text": "Know More About Us",
+                "url": "/about"
+              },
+              "showButton": false,
+              "imageMain": "/about/cyber-about-main.webp",
+              "imageAlt": "Cybersecurity analyst monitoring a protected global network"
+            },
+            "CyberSecurityAboutWhyChooseUs1": {
+              "subtitle": "WHY CHOOSE US",
+              "title1": "Complete Cyber Defense Against",
+              "title2": "Modern Attacks",
+              "description": "Stay protected with a fully integrated defense strategy built for today's complex cyber landscape. From ransomware to phishing and zero-day exploits, we provide comprehensive protection across networks, endpoints, and cloud environments.",
+              "features": [
+                {
+                  "id": "about-why-advanced-threat-detection",
+                  "number": "01",
+                  "icon": "FaShieldAlt",
+                  "title": "Advanced Threat Detection",
+                  "description": "Leverage real-time monitoring and AI-driven analytics to detect and stop threats before they impact your business.",
+                  "image": "/service/cyber-network-security.webp",
+                  "imageAlt": "Digital shield protecting a secure server network"
+                },
+                {
+                  "id": "about-why-zero-trust-architecture",
+                  "number": "02",
+                  "icon": "FaUserLock",
+                  "title": "Zero Trust Architecture",
+                  "description": "Enforce strict access control and continuous verification at every level to prevent unauthorized access.",
+                  "image": "/service/cyber-identity-access.webp",
+                  "imageAlt": "Biometric identity verification and secure access control"
+                },
+                {
+                  "id": "about-why-end-to-end-protection",
+                  "number": "03",
+                  "icon": "FaCloud",
+                  "title": "End-to-End Protection",
+                  "description": "Comprehensive security across networks, endpoints, cloud, and applications.",
+                  "image": "/service/cyber-backup-recovery.webp",
+                  "imageAlt": "Secure cloud infrastructure protected across environments"
+                },
+                {
+                  "id": "about-why-proactive-security-strategy",
+                  "number": "04",
+                  "icon": "FaChartLine",
+                  "title": "Proactive Security Strategy",
+                  "description": "Stay ahead with continuous monitoring, vulnerability management, and expert-led defense strategies.",
+                  "image": "/service/cyber-monitoring.webp",
+                  "imageAlt": "Security analytics dashboard showing active threat monitoring"
+                }
+              ],
+              "button": {
+                "text": "Know More About Us",
+                "url": "/about"
+              },
+              "showButton": false,
+              "imageMain": "/about/cyber-about-main.webp",
+              "imageAlt": "Cybersecurity analyst monitoring a protected global network"
+            }
+          }
+        },
+        "Projects": {
+          "variants": {
+            "CyberSecurityProjects1": {
+              "subtitle": "OUR PROJECT",
+              "title1": "Showcasing Our Cybersecurity",
+              "title2": "Latest Projects",
+              "description": "Explore our recent cybersecurity projects where we delivered advanced security solutions to help businesses stay protected, compliant, and resilient against modern cyber threats.",
+              "previousLabel": "View previous projects",
+              "nextLabel": "View next projects",
+              "buttonText": "View All Projects",
+              "buttonUrl": "/projects",
+              "projects": [
+                {
+                  "id": "project-enterprise-network-upgrade",
+                  "category": "Network Security",
+                  "title": "Enterprise Network Security Upgrade",
+                  "image": "/about/cyber-about-main.webp",
+                  "imageAlt": "Cybersecurity analyst monitoring an enterprise network",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "project-cloud-data-encryption",
+                  "category": "Data Protection",
+                  "title": "Cloud Data Encryption Implementation",
+                  "image": "/service/cyber-data-encryption.webp",
+                  "imageAlt": "Encrypted cloud data protected by a digital lock",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "project-threat-monitoring-system",
+                  "category": "Threat Detection",
+                  "title": "Real-Time Threat Monitoring System",
+                  "image": "/about/cyber-about-team.webp",
+                  "imageAlt": "Security professionals monitoring live cyber threats",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "project-zero-trust-implementation",
+                  "category": "Access Management",
+                  "title": "Zero Trust Security Implementation",
+                  "image": "/service/cyber-identity-access.webp",
+                  "imageAlt": "Secure biometric access management system",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "project-ransomware-response",
+                  "category": "Incident Response",
+                  "title": "Ransomware Response & Recovery",
+                  "image": "/project/ransomware-response.webp",
+                  "imageAlt": "Security operations team responding to ransomware threats",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "project-secure-cloud-migration",
+                  "category": "Cloud Security",
+                  "title": "Secure Hybrid Cloud Migration",
+                  "image": "/project/secure-cloud-migration.webp",
+                  "imageAlt": "Protected hybrid cloud infrastructure and server network",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "project-industrial-security",
+                  "category": "Industrial Security",
+                  "title": "Smart Factory Security Modernization",
+                  "image": "/project/industrial-security.webp",
+                  "imageAlt": "Engineer protecting smart factory control systems",
+                  "url": "/projects/project-detail"
+                },
+                {
+                  "id": "project-mobile-banking-security",
+                  "category": "Fintech Security",
+                  "title": "Mobile Banking Fraud Prevention",
+                  "image": "/project/mobile-banking-security.webp",
+                  "imageAlt": "Secure mobile banking with biometric fraud protection",
+                  "url": "/projects/project-detail"
+                }
+              ]
+            }
+          }
+        },
+        "ProjectDetails": {
+          "variants": {
+            "CyberSecurityProjectDetail1": {
+              "id": "project-detail",
+              "title1": "Cyber Security",
+              "title2": "Solution",
+              "description": "A comprehensive cybersecurity solution designed to protect businesses from modern threats, ensure data safety, and maintain uninterrupted operations.",
+              "image": "/about/cyber-about-main.webp",
+              "imageAlt": "Cybersecurity analyst monitoring protected business systems",
+              "overviewTitle": "Project Overview",
+              "overviewText": "The Cyber Security Solution is designed to help businesses protect their critical data, prevent cyber threats, and ensure a safe digital environment. Our team implemented advanced monitoring, real-time threat detection, and automated response mechanisms to strengthen the organization's security infrastructure.",
+              "highlightsTitle": "Key Highlights",
+              "highlightsDescription": "The project focused on building a secure and reliable system with the latest technologies to detect and mitigate cyber threats, ensuring continuous protection and business continuity.",
+              "highlights": [
+                {
+                  "id": "project-highlight-detection",
+                  "text": "Real-time threat detection and monitoring"
+                },
+                {
+                  "id": "project-highlight-firewall",
+                  "text": "Advanced firewall and intrusion prevention"
+                },
+                {
+                  "id": "project-highlight-encryption",
+                  "text": "Data encryption and secure access management"
+                },
+                {
+                  "id": "project-highlight-response",
+                  "text": "Continuous monitoring and automated response"
+                },
+                {
+                  "id": "project-highlight-performance",
+                  "text": "Improved system performance and reliability"
+                }
+              ],
+              "informationTitle": "Project Information",
+              "information": [
+                {
+                  "id": "project-info-client",
+                  "icon": "FaUser",
+                  "label": "Client",
+                  "value": "ABC Cybersecurity"
+                },
+                {
+                  "id": "project-info-location",
+                  "icon": "FaMapMarkerAlt",
+                  "label": "Location",
+                  "value": "Chapel Hill Street, Stamford"
+                },
+                {
+                  "id": "project-info-date",
+                  "icon": "FaCalendarAlt",
+                  "label": "Project Date",
+                  "value": "10 January, 2025"
+                },
+                {
+                  "id": "project-info-category",
+                  "icon": "FaFolder",
+                  "label": "Category",
+                  "value": "Cyber Security"
+                },
+                {
+                  "id": "project-info-cost",
+                  "icon": "FaCoins",
+                  "label": "Cost",
+                  "value": "$12,000"
+                }
+              ],
+              "galleryTitle": "Project Gallery",
+              "gallery": [
+                {
+                  "id": "project-gallery-shield",
+                  "image": "/service/cyber-network-security.webp",
+                  "imageAlt": "Digital shield protecting enterprise servers"
+                },
+                {
+                  "id": "project-gallery-cloud",
+                  "image": "/service/cyber-backup-recovery.webp",
+                  "imageAlt": "Secure cloud backup infrastructure"
+                },
+                {
+                  "id": "project-gallery-encryption",
+                  "image": "/service/cyber-data-encryption.webp",
+                  "imageAlt": "Encrypted business data protected by a digital lock"
+                },
+                {
+                  "id": "project-gallery-monitoring",
+                  "image": "/about/cyber-about-team.webp",
+                  "imageAlt": "Security team monitoring cyber threats"
+                }
+              ]
+            }
+          }
+        },
+        "Impact": {
+          "variants": {
+            "CyberSecurityImpact1": {
+              "subtitle": "OUR IMPACT",
+              "title1": "Numbers That Reflect",
+              "title2": "Our Strength",
+              "description": "Trusted by businesses worldwide, our cybersecurity solutions continue to deliver measurable results and stronger, safer digital environments.",
+              "backgroundImage": "/impact/cyber-impact-command-center.webp",
+              "backgroundImageAlt": "Cybersecurity analyst monitoring a global threat intelligence command center",
+              "stats": [
+                {
+                  "id": "impact-threats-blocked",
+                  "icon": "FaShieldAlt",
+                  "value": "65250+",
+                  "label": "Threats Blocked"
+                },
+                {
+                  "id": "impact-happy-clients",
+                  "icon": "FaUsers",
+                  "value": "23160+",
+                  "label": "Happy Clients"
+                },
+                {
+                  "id": "impact-projects-secured",
+                  "icon": "FaServer",
+                  "value": "1500+",
+                  "label": "Projects Secured"
+                },
+                {
+                  "id": "impact-years-experience",
+                  "icon": "FaAward",
+                  "value": "20+",
+                  "label": "Years of Experience"
+                }
+              ]
+            }
+          }
+        },
+        "Faq": {
+          "variants": {
+            "CyberSecurityFaq1": {
+              "subtitle": "FAQ",
+              "title1": "Cybersecurity Questions",
+              "title2": "Answered Clearly",
+              "description": "Find quick answers to common questions about our cybersecurity services, solutions, and how we help protect your business.",
+              "image": "/about/cyber-about-team.webp",
+              "imageAlt": "Cybersecurity specialist protecting business systems from digital threats",
+              "ctaTitle": "Still have questions?",
+              "ctaDescription": "Get in touch with our team for support.",
+              "ctaButtonLabel": "Contact our cybersecurity team",
+              "ctaButtonUrl": "/contact",
+              "items": [
+                {
+                  "id": "faq-what-is-cybersecurity",
+                  "icon": "FaShieldAlt",
+                  "question": "What is cybersecurity?",
+                  "answer": "Cybersecurity is the practice of protecting systems, networks, applications, and data from digital attacks, unauthorized access, and potential damage. It supports business continuity, privacy, and operational security."
+                },
+                {
+                  "id": "faq-why-cybersecurity-important",
+                  "icon": "FaCog",
+                  "question": "Why is cybersecurity important?",
+                  "answer": "Strong cybersecurity reduces the risk of financial loss, service disruption, data exposure, and reputational damage while helping your organization meet its security and compliance responsibilities."
+                },
+                {
+                  "id": "faq-common-cyber-threats",
+                  "icon": "FaServer",
+                  "question": "What are the most common cyber threats?",
+                  "answer": "Common threats include phishing, ransomware, malware, credential theft, insider risks, application vulnerabilities, and attacks targeting cloud services or poorly secured network devices."
+                },
+                {
+                  "id": "faq-protect-business",
+                  "icon": "FaUsers",
+                  "question": "How can I protect my business from cyber threats?",
+                  "answer": "Use layered protection that combines risk assessments, access controls, employee awareness, secure backups, endpoint protection, continuous monitoring, and a tested incident response plan."
+                },
+                {
+                  "id": "faq-ongoing-monitoring",
+                  "icon": "FaCloud",
+                  "question": "Do you provide ongoing monitoring and support?",
+                  "answer": "Yes. Our team provides continuous monitoring, threat detection, incident support, security reviews, and practical recommendations to keep your defenses aligned with changing risks."
+                },
+                {
+                  "id": "faq-industries-served",
+                  "icon": "FaFileAlt",
+                  "question": "What industries do you serve?",
+                  "answer": "We support organizations across technology, healthcare, finance, retail, manufacturing, logistics, professional services, and other sectors that depend on secure digital operations."
+                }
+              ]
+            }
+          }
+        },
+        "contact": {
+          "variants": {
+            "CyberSecurityContact1": {
+              "intro": {
+                "eyebrow": "CONTACT US",
+                "title": "Get in Touch with",
+                "titleHighlight": "Our Security Experts",
+                "description": "Whether you have a question, need a consultation, or want a customized cybersecurity solution, we are here to help. Fill out the form and our team will get back to you as soon as possible."
+              },
+              "form": {
+                "eyebrow": "SEND US A MESSAGE",
+                "title": "Send Us Your",
+                "titleHighlight": "Requirements",
+                "helperText": "Fill out the form below and our team will get back to you as soon as possible.",
+                "fullNamePlaceholder": "Your Name*",
+                "phonePlaceholder": "Your Phone*",
+                "emailPlaceholder": "Your Email*",
+                "servicePlaceholder": "Select Service*",
+                "messagePlaceholder": "Your Message*",
+                "buttonText": "Send Message",
+                "successMessage": "Thank you. Your message has been submitted successfully.",
+                "servicesList": [
+                  {
+                    "id": "contact-service-network",
+                    "label": "Network Security",
+                    "value": "network-security"
+                  },
+                  {
+                    "id": "contact-service-encryption",
+                    "label": "Data Encryption",
+                    "value": "data-encryption"
+                  },
+                  {
+                    "id": "contact-service-access",
+                    "label": "Identity & Access Management",
+                    "value": "identity-access"
+                  },
+                  {
+                    "id": "contact-service-monitoring",
+                    "label": "Security Monitoring",
+                    "value": "security-monitoring"
+                  },
+                  {
+                    "id": "contact-service-backup",
+                    "label": "Backup & Recovery",
+                    "value": "backup-recovery"
+                  },
+                  {
+                    "id": "contact-service-configuration",
+                    "label": "Security Configuration",
+                    "value": "security-configuration"
+                  }
+                ]
+              },
+              "contactPanel": {
+                "items": [
+                  {
+                    "id": "contact-info-address",
+                    "icon": "FaMapMarkerAlt",
+                    "title": "Our Office Location",
+                    "lines": [
+                      {
+                        "id": "contact-office-address",
+                        "text": "123 Main St, New York, NY, USA"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "contact-info-phone",
+                    "icon": "FaPhoneAlt",
+                    "title": "Call Us Directly",
+                    "lines": [
+                      {
+                        "id": "contact-phone-number",
+                        "text": "+1 000000000"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "contact-info-email",
+                    "icon": "FaEnvelope",
+                    "title": "Send a Message",
+                    "lines": [
+                      {
+                        "id": "contact-email-address",
+                        "text": "info@xyz.com"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "location": {
+                "mapUrl": "https://www.google.com/maps?q=123+Main+St,+New+York,+NY,+USA&output=embed",
+                "mapTitle": "Map showing the CyberShield office location in New York"
+              }
+            }
+          }
+        },
+        "Quote": {
+          "variants": {
+            "CyberSecurityQuote1": {
+              "eyebrow": "GET A QUOTE",
+              "title": "Get a Customized",
+              "titleHighlight": "Cybersecurity Solution",
+              "description": "Tell us about your business requirements and our experts will provide a tailored quote for the right cybersecurity solution.",
+              "image": "/about/cyber-about-monitoring.webp",
+              "imageAlt": "Cybersecurity protection displayed on a laptop",
+              "form": {
+                "eyebrow": "REQUEST A QUOTE",
+                "title": "Send Us Your",
+                "titleHighlight": "Requirements",
+                "description": "Fill out the form below and our team will get back to you with a customized quote.",
+                "fullNamePlaceholder": "Full Name*",
+                "emailPlaceholder": "Email Address*",
+                "phonePlaceholder": "Phone Number*",
+                "companyPlaceholder": "Company Name*",
+                "servicePlaceholder": "Select Service*",
+                "messagePlaceholder": "Your Requirements*",
+                "agreementText": "I agree to be contacted by the CyberShield team regarding my inquiry.",
+                "buttonText": "Get a Quote Now",
+                "successMessage": "Thank you. Your quote request has been submitted successfully.",
+                "services": [
+                  {
+                    "id": "quote-service-network-security",
+                    "label": "Network Security",
+                    "value": "network-security"
+                  },
+                  {
+                    "id": "quote-service-data-encryption",
+                    "label": "Data Encryption",
+                    "value": "data-encryption"
+                  },
+                  {
+                    "id": "quote-service-access-management",
+                    "label": "Identity & Access Management",
+                    "value": "identity-access-management"
+                  },
+                  {
+                    "id": "quote-service-monitoring",
+                    "label": "Security Monitoring",
+                    "value": "security-monitoring"
+                  },
+                  {
+                    "id": "quote-service-backup",
+                    "label": "Backup & Recovery",
+                    "value": "backup-recovery"
+                  },
+                  {
+                    "id": "quote-service-configuration",
+                    "label": "Security Configuration",
+                    "value": "security-configuration"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Header": "CyberSecurityHeader1",
+          "Footer": "CyberSecurityFooter1"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "HeroSection",
+                "component": "CyberSecurityHero1"
+              },
+              {
+                "key": "AboutUs",
+                "component": "CyberSecurityAboutUs1"
+              },
+              {
+                "key": "Services",
+                "component": "CyberSecurityServices1"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "CyberSecurityWhyChooseUs1"
+              },
+              {
+                "key": "Projects",
+                "component": "CyberSecurityProjects1"
+              },
+              {
+                "key": "Impact",
+                "component": "CyberSecurityImpact1"
+              },
+              {
+                "key": "Testimonials",
+                "component": "CyberSecurityTestimonials1"
+              },
+              {
+                "key": "Faq",
+                "component": "CyberSecurityFaq1"
+              },
+              {
+                "key": "Blogs",
+                "component": "CyberSecurityBlogs1"
+              }
+            ]
+          },
+          "about": {
+            "components": [
+              {
+                "key": "AboutPageIntro",
+                "component": "CyberSecurityAboutPageIntro1"
+              },
+              {
+                "key": "WhyChooseUs",
+                "component": "CyberSecurityAboutWhyChooseUs1"
+              }
+            ]
+          },
+          "services": {
+            "components": [
+              {
+                "key": "Services",
+                "component": "CyberSecurityServices1"
+              }
+            ]
+          },
+          "projects": {
+            "components": [
+              {
+                "key": "Projects",
+                "component": "CyberSecurityProjects1"
+              }
+            ]
+          },
+          "projectDetail": {
+            "components": [
+              {
+                "key": "ProjectDetails",
+                "component": "CyberSecurityProjectDetail1"
+              }
+            ]
+          },
+          "serviceDetail": {
+            "components": [
+              {
+                "key": "ServiceDetails",
+                "component": "ServiceDetailContent"
+              }
+            ]
+          },
+          "blog": {
+            "components": [
+              {
+                "key": "Blogs",
+                "component": "CyberSecurityBlogs1"
+              }
+            ]
+          },
+          "blogDetail": {
+            "components": [
+              {
+                "key": "BlogDetails",
+                "component": "BlogDetailContent"
+              }
+            ]
+          },
+          "contact": {
+            "components": [
+              {
+                "key": "Contact",
+                "component": "CyberSecurityContact1"
+              }
+            ]
+          },
+          "getAQuote": {
+            "components": [
+              {
+                "key": "Quote",
+                "component": "CyberSecurityQuote1"
+              }
+            ]
+          },
+          "notFound": {
+            "components": [
+              {
+                "key": "NotFoundSection",
+                "component": "NotFoundSection"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "components": [
+        {
+          "key": "HeroSection",
+          "component": "HeroSection"
+        },
+        {
+          "key": "AboutUs",
+          "component": "AboutUs"
+        },
+        {
+          "key": "Services",
+          "component": "Services"
+        },
+        {
+          "key": "WhyChooseUs",
+          "component": "WhyChooseUs"
+        },
+        {
+          "key": "Projects",
+          "component": "Projects"
+        },
+        {
+          "key": "Impact",
+          "component": "Impact"
+        },
+        {
+          "key": "Testimonials",
+          "component": "Testimonials"
+        },
+        {
+          "key": "Faq",
+          "component": "Faq"
+        },
+        {
+          "key": "Blogs",
+          "component": "Blogs"
+        }
+      ]
+    },
+    "about": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "AboutPageIntro",
+          "component": "AboutPageIntro"
+        },
+        {
+          "key": "WhyChooseUs",
+          "component": "WhyChooseUs"
+        }
+      ]
+    },
+    "services": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "Services",
+          "component": "Services"
+        }
+      ]
+    },
+    "projects": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "ProjectsGrid",
+          "component": "ProjectsGrid"
+        }
+      ]
+    },
+    "projects/[id]": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "ProjectDetailContent",
+          "component": "ProjectDetailContent"
+        }
+      ]
+    },
+    "services/[id]": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "ServiceDetailContent",
+          "component": "ServiceDetailContent"
+        }
+      ]
+    },
+    "blog": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "BlogGrid",
+          "component": "BlogGrid"
+        }
+      ]
+    },
+    "blog/[id]": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "BlogDetailContent",
+          "component": "BlogDetailContent"
+        }
+      ]
+    },
+    "contact": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "ContactSection",
+          "component": "ContactSection"
+        }
+      ]
+    },
+    "get-a-quote": {
+      "components": [
+        {
+          "key": "Breadcrumb",
+          "component": "Breadcrumb"
+        },
+        {
+          "key": "QuoteSection",
+          "component": "QuoteSection"
+        }
+      ]
+    },
+    "not-found": {
+      "components": [
+        {
+          "key": "NotFoundSection",
+          "component": "NotFoundSection"
+        }
+      ]
+    }
+  }
+}
