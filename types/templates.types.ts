@@ -254,7 +254,7 @@ export interface TemplateComponentsData {
 }
 
 export interface PageComponentRegistry {
-  components: string[];
+  components: (string | TemplateComponentItem)[];
 }
 
 export interface WhyChooseUsFeature {
@@ -581,20 +581,6 @@ export interface BlogDetailPageData {
 
 export interface BlogDetailContentProps {
   data?: BlogDetailPageData;
-}
-
-export interface PageComponentItem {
-  key: string;
-  component: string;
-}
-
-export interface PageComponentRegistry {
-  components: (string | PageComponentItem)[];
-}
-
-export interface TemplateComponentsData {
-  shared?: Record<string, string>;
-  pages?: Record<string, PageComponentRegistry>;
 }
 
 export interface CyberSecurityTemplateData {
